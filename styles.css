@@ -31,6 +31,11 @@ p{
 img{
   text-align: center;
 }
+#page-1-image{
+  animation=fade-in 5s;
+  
+}
+
 #blue
 { background-color :#add8e6;
 }
