@@ -67,5 +67,13 @@ img{
     100% {
         opacity: 1;
     }
+}
+.btn{
+  border: 10px solid #07497a;
+  padding: .5em 1em;
+  font-size: 2 rem;
+  text-color:#07497a;
+  background-color:#ebe1ca;
+}
 
 
